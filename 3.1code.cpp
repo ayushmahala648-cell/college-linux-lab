@@ -1,4 +1,5 @@
 // C++ program to implement FCFS scheduling
+// by default the at is 0 1 2 3 4 ...
 #include <iostream>
 using namespace std;
 

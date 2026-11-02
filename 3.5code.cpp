@@ -41,7 +41,7 @@ int main() {
         }
 
         // Execute the process completely
-        time += bt[idx];
+        time += bt[idx];//-------------------------------------------------------
 
         ct[idx] = time;
         tat[idx] = ct[idx] - at[idx];

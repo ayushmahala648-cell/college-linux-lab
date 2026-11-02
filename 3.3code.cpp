@@ -41,7 +41,7 @@ void findWaitingTime(int processes[], int n, int at[],
             continue;
         }
 
-        // Execute selected process completely
+        // Execute selected process completely-------------------------------------------------------------------------------
         currentTime += bt[shortest];
 
         // Completion time

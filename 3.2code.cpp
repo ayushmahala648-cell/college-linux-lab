@@ -60,7 +60,7 @@ int main()
             continue;
         }
 
-        // Execute the selected process for 1 unit of time
+        // Execute the selected process for 1 unit of time----------------------------------------------------------------------------------
         remainingTime[shortest]--;
         currentTime++;
 
